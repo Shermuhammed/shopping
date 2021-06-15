@@ -1,0 +1,36 @@
+.container {
+    border: 80px solid rgb(127, 192, 7);
+    width: 1000px;
+    height: 704px;
+    margin-top:12%;
+    margin-left: 10%;
+}
+
+.img1 {
+    border: 2px solid;
+    background-image: url(1.jpg);
+    height: 180px;
+    width: 250px;
+    font-size: 30%;
+}
+
+.img2 {
+    border: 2px solid;
+    background-image: url(2.jpg);
+    height: 180px;
+    width: 250px;
+    background-size: 110%;
+}
+
+.img3 {
+    border: 2px solid;
+    background-image: url(3.jpg);
+    height: 180px;
+    width: 250px;
+    font-size: 140%;
+}
+
+.shop {
+    height: 70px;
+
+}
